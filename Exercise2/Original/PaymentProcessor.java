@@ -1,4 +1,4 @@
-package SOLID.Exercise2.Original;
+package Exercise2.Original;
 
 public class PaymentProcessor {
     public void processPayment(String paymentType) {

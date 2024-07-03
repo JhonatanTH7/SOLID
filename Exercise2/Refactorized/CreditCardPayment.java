@@ -1,4 +1,4 @@
-package SOLID.Exercise2.Refactorized;
+package Exercise2.Refactorized;
 
 public class CreditCardPayment implements PaymentMethod {
 
