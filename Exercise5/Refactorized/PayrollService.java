@@ -1,7 +1,7 @@
 package Exercise5.Refactorized;
 
-public class CalculateSalary {
-    public void calculatePay() {
+public class PayrollService {
+    public void calculateSalary(Employee employee) {
         // Lógica para calcular el salario
     }
 }
