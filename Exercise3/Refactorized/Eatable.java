@@ -1,4 +1,4 @@
-package SOLID.Exercise3.Refactorized;
+package Exercise3.Refactorized;
 
 public interface Eatable {
 

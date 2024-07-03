@@ -1,4 +1,4 @@
-package SOLID.Exercise3.Original;
+package Exercise3.Original;
 
 public interface Worker {
 
