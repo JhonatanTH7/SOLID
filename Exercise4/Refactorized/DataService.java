@@ -2,10 +2,10 @@ package Exercise4.Refactorized;
 
 public class DataService {
 
-    private DataStorage dataStorage;
+    private final DataStorage dataStorage;
 
     public DataService(DataStorage dataStorage) {
-        this.dataStorage = dataStorage;
+        this.dataStorage = new Database();
     }
 
     public void saveData(String data) {
