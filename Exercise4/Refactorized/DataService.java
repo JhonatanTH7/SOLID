@@ -4,7 +4,7 @@ public class DataService {
 
     private final DataStorage dataStorage;
 
-    public DataService(DataStorage dataStorage) {
+    public DataService() {
         this.dataStorage = new Database();
     }
 
