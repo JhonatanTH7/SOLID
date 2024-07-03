@@ -1,4 +1,4 @@
-package SOLID.Exercise1.Refactorized;
+package Exercise1.Refactorized;
 
 public class OrderPrinter {
     public void printOrder(Order order) {

@@ -1,4 +1,4 @@
-package SOLID.Exercise1.Original;
+package Exercise1.Original;
 
 import java.util.List;
 

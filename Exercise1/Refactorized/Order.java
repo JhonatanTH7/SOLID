@@ -1,9 +1,9 @@
-package SOLID.Exercise1.Refactorized;
+package Exercise1.Refactorized;
 
 import java.util.List;
 
 public class Order {
-    
+
     private List<String> items;
 
     public Order(List<String> items) {
